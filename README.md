@@ -75,9 +75,6 @@ pagination/
 
 ---
 
-
----
-
 ## 🗄️ Database
 **Nama Database:** `db_barang`  
 **Tabel:** `data_barang`
