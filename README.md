@@ -21,22 +21,22 @@ Dibuat untuk keperluan **Praktikum Web (13–14)**.
 > Berikut tampilan aplikasi setelah dijalankan di browser.
 
 ### 📌 Halaman Data Barang
-![Halaman Data Barang](screenshots/halaman-data-barang.png)
+![Halaman Data Barang](https://github.com/dirarohmaeni/Lab13_14Web/blob/647c803bc4212c68fc9a5fde25bf04eebb0c691c/lab13-14/list.png)
 
 ### 📌 Pagination
-![Pagination](screenshots/pagination.png)
+![Pagination](https://github.com/dirarohmaeni/Lab13_14Web/blob/647c803bc4212c68fc9a5fde25bf04eebb0c691c/lab13-14/pagination.png)
 
 ### 📌 Tambah Data Barang
-![Tambah Data Barang](screenshots/tambah-data.png)
+![Tambah Data Barang](https://github.com/dirarohmaeni/Lab13_14Web/blob/647c803bc4212c68fc9a5fde25bf04eebb0c691c/lab13-14/tambah.png)
 
 ### 📌 Tambah Edit Barang
-![Tambah Data Barang](screenshots/tambah-data.png)
+![Tambah Data Barang](https://github.com/dirarohmaeni/Lab13_14Web/blob/647c803bc4212c68fc9a5fde25bf04eebb0c691c/lab13-14/edit.png)
 
 ### 📌 Tambah Hapus Barang
-![Tambah Data Barang](screenshots/tambah-data.png)
+![Tambah Data Barang](https://github.com/dirarohmaeni/Lab13_14Web/blob/647c803bc4212c68fc9a5fde25bf04eebb0c691c/lab13-14/hapus.png)
 
 ### 📌 Tambah Cari Barang
-![Tambah Data Barang](screenshots/tambah-data.png)
+![Tambah Data Barang](https://github.com/dirarohmaeni/Lab13_14Web/blob/647c803bc4212c68fc9a5fde25bf04eebb0c691c/lab13-14/cari.png)
 
 ---
 
